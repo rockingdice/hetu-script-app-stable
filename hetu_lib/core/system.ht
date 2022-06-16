@@ -1,0 +1,8 @@
+external class System {
+
+  static get now: num
+
+  // static fun tik()
+
+  // static fun tok()
+}

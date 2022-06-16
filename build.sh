@@ -1,0 +1,1 @@
+dart compile exe bin/repl.dart -o bin/hetu.exe
